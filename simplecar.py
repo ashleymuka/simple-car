@@ -1,5 +1,5 @@
 '''
-Assignment Description: Given two integers that represent the miles to 
+Description: Given two integers that represent the miles to 
 drive forward and the miles to drive in reverse as user inputs, 
 create a SimpleCar object that performs the following operations:
 1. Drives input number of miles forward
